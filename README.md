@@ -4,37 +4,33 @@
 
 Completed
 ## Project Intro/Objective
-The purpose of this project was to take a fictious company and hypotheize that the company was in the midst of an HR transformation effort focused on their talent acquistion efforts. The final output included a ppt creatd from the Tableau dashboard and and outcome of the project and recommendations. 
+For this project I created a visualization dashboard website using visualizations of weather data from 500 cities that was created during a past project.  
+
 ### Methods Used
 * Python Data Cleaning, Merging and Loading Data
-* Data Visualization
+* Data Visualization 
 
 ### Technologies
 
 * Python, Pandas, Jupyter 
 * CSV files
-* Tableau Desktop/Public
-* PostgreSQL
+* HTML
+* CSS
+* Bootstrap
 
 ## Project Description
 
-Starting with a Kaggle dataset https://www.kaggle.com/rhuebner/human-resources-data-set, there was a need to increase some of the data and randomize columns to allow for more robust data analysis. 
+In building this dashboard, I created individual pages for each plot and a means by which they can be navigated. These pages will contain the visualizations and their corresponding explanations. In addition, I created a page where one can see a comparison of all of the plots, and another page where someone can view the data used to build them.
 
-I ustilized Pandas to clean and reorganize the data. The data was then loaded into PostgreSQL. Several queries were completed and downloaded to csv that were used as the Tableau source files to create Visualizations. 
+The data from the original Weather Analysis did not change, the same data and visualizatins didn't change. The finished project was connected to github.io. 
 
-1. emmp_hourlydemo
-2. employee_salary_demo
-3. emp_satisfaction
-4. emp_sources
-5. temp_emp
-
-After downloading the csvs, Tableau spreedsheets were created. There comparisons completed between hourly/salary populaton and gender/race. Additional comparisons between Employee Engagement and Satisdaction based on race and each department. 
-
-ROADBLOCKS
-* Lack of access to real data to create the model. Even an absence of really complete datasets for hypothetical models*
+https://jeffstpeterson.github.io/500-City-Weather-Analysis-Dashboard/
 
 
-- 
 
-*https://www.forbes.com/best-employers-diversity/#83534629b9e9
+![image](https://github.com/jeffstpeterson/500-City-Weather-Analysis-Dashboard/blob/main/assets/Main%20Page.png)
+
 ## Contact
+
+Jeff Peterson 
+jeffstpeterson@icloud.com   
